@@ -21,10 +21,12 @@ return a*b
 }
 
 function increment(n){
+  var n
   return n++
 }
 
 function decrement(n){
+  var n
   return n--
 }
 
