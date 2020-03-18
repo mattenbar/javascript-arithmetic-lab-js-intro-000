@@ -21,13 +21,13 @@ return a*b
 }
 
 function increment(n){
-  var n = n
-  return n++
+  n++
+  return n
 }
 
 function decrement(n){
-  var n = n
-  return n--
+  n--
+  return n
 }
 
 function makeInt(n){
